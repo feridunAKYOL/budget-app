@@ -7,7 +7,7 @@ At the end of the project the page look like this: but the important part is fun
 
    
     
-![](https://raw.githubusercontent.com/feridunAKYOL/feridunakyol.github.io/master/screencapture-feridunakyol-github-io-duck-duck-clone.png)
+![](https://raw.githubusercontent.com/feridunAKYOL/budget-app/master/budget-App.png)
 
 ### INSPIRATION
 Our project is depends on FreeCodeCamp [Budget-App Tutorial](https://www.youtube.com/watch?v=m_HJ3juuFvo) 
