@@ -4,31 +4,26 @@
 
 * The aim of the project
 * Screenshot will be added.
-* Github account and names of group members
+* Github account and name
 
 
-## 1. Setup
+## 1. Start Point
 
 * Created boilerplate `index.html`
 ---------------------------------------------------------------------
 ## 2. User Story : HTML and CSS
-I will use `bootstrap` and `fontawesome` for style. there will be 3 input fields for `title` , `author` and `isbn` of the book.
-there will be an add button for adding a book. and also there will be a structure of table.
+I will use `bootstrap` and `fontawesome` for style. there will be 3 input fields for `income` , `expense` and `amount` of the expense.
+there will be an submit button for adding values and also there will be a table of expenses.
 
 ---------------------------------------------------------------
 ## 3. User Story: Interactive page
 
-- when a user press the `add button` after enter the necessary information , it will add in the table below the page.
-- I will add a remove button next to the book info.
-- I will add alert after `adding` , `deleting` and `missed info entered`.
+- when a user enter the `income` he will see his budget. for enterins an expense he should enter both `expence` and `amount` .if he doesn't there will appear an error message.
+- after the expense enterance there will be an `expence table` with an `delete` and `edit` button.
 
 
 ------------------------------------------------------
 
-## 4. User Story: Encapsulation
-
-* refactor the `.js file` according to the `encapsulation`
--------------------------
 
 
 
