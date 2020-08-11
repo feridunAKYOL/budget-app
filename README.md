@@ -1,4 +1,4 @@
-# Project of DuckDuckGo Clone
+# Project of Budget app
 In this project we use the `classes` and also get more familiar with javascript. Mostly we use `callback functions` and also the most important part is `Asynchronous Programming`. 
 At the end of the project the page look like below, but because the most important part is functionality first you should try :smirk: it once [by clicking here](https://feridunakyol.github.io/budget-app/)  
   
